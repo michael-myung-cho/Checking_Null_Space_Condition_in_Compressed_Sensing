@@ -1,0 +1,12 @@
+function s=InitiateS;
+s.mi=0;
+s.lp.al1=0;
+s.lp.al1a=0;
+s.lp.als=0;
+s.lp.alsa=0;
+s.mp.al1=0;
+s.mp.al1a=0;
+s.mp.als=0;
+s.mp.alsa=0;
+s.sdp=0;
+s.bst=0;
