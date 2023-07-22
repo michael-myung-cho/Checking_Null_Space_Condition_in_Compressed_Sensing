@@ -1,0 +1,17 @@
+Pick Percent: 736/731120
+Pick Percent: 744/731120
+Pick Percent: 752/731120
+Pick Percent: 760/731120
+Pick Percent: 768/731120
+Pick Percent: 776/731120
+Pick Percent: 784/731120
+Pick Percent: 792/731120
+Pick Percent: 800/731120
+Elapsed time is 4.969067 seconds.
+>> 4.97/100
+
+ans =
+
+    0.0497
+
+>> 
