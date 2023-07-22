@@ -11,7 +11,10 @@ Providing the maximum recoverable sparsity k via L1 minimization given a sensing
 ------------------------
 C. CONTENTS:
 matlab code (MOSEK solver should be installed. (available at https://www.mosek.com/))
-!!!! Prerequisite software (or solver) to run the MATLAB code: Mosaic, CVX !!!!
+!!!! Prerequisite software (or solver) to run the MATLAB code: Mosek, CVX !!!!
+https://www.mosek.com
+http://cvxr.com
+
 
 C.1. FOLDERS
 00_Rawdata: raw data file for sensing matrices used to use for Table 1 and 2 of [1].
