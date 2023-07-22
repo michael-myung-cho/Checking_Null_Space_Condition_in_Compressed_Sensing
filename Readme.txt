@@ -42,8 +42,12 @@ D. ADDITION
 ------------------------
 E. REFERENCE PAPER: 
 [1] M. Cho, K. V. Mishra, and W. Xu, "Computable performance guarantees for compressed sensing matrices," EURASIP Journal on Advances in Signal Processing, no. 16, 2018.
+https://asp-eurasipjournals.springeropen.com/articles/10.1186/s13634-018-0535-y
+
 [2] M. Cho, W. Xu, "New algorithms for verifying the null space conditions in compressed sensing," In Proceedings of
 Asilomar Conference on Signals, Systems and Computers (2013), pp. 1038-1042.
+https://ieeexplore.ieee.org/document/6810449
+
 [3] A. Juditsky and A. Nemirovski, “On verifiable sufficient conditions for sparse signal recovery via L1 minimization,” Mathematical programming, vol. 127, no. 1, pp. 57–88, 2011.
 [4] A. d’Aspremont and L. El Ghaoui, “Testing the nullspace property using semidefinite programming,” Mathematical programming, vol. 127, no. 1, pp. 123–144, 2011.
 
